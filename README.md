@@ -1,4 +1,4 @@
-# vue3_app1
+# vue3_app1 - git scm test
 
 ## Project setup
 ```
